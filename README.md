@@ -97,5 +97,5 @@ This project is licensed under the MIT License. See the `LICENSE` file for more 
 ## 📧 Contact
 
 For queries or feedback, contact:  
-**[Abhinav Sharma]**  
-**[sharmaabhinav23736@gmail.com]**
+**Abhinav Sharma**  
+**sharmaabhinav23736@gmail.com**
